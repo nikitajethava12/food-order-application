@@ -16,6 +16,8 @@ import com.example.foodorderingapplication.service.CartService;
 @RestController
 public class CartController {
 
+	// Added comment by Nikita jethava for commit testing
+
 	@Autowired(required = true)
 	private CartService cartService;
 
